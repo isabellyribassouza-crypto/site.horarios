@@ -1,0 +1,12 @@
+[
+    {"id": 1, "componente": "Matemática", "diaDaSemana": "segunda"},
+    {"id": 2, "componente": "Português", "diaDaSemana": "segunda"},
+    {"id": 3, "componente": "Física", "diaDaSemana": "terça"},
+    {"id": 4, "componente": "Química", "diaDaSemana": "terça"},
+    {"id": 5, "componente": "História", "diaDaSemana": "quarta"},
+    {"id": 6, "componente": "Geografia", "diaDaSemana": "quarta"},
+    {"id": 7, "componente": "Biologia", "diaDaSemana": "quinta"},
+    {"id": 8, "componente": "Artes", "diaDaSemana": "quinta"},
+    {"id": 9, "componente": "Inglês", "diaDaSemana": "sexta"},
+    {"id": 10, "componente": "Ed. Física", "diaDaSemana": "sexta"}
+]
